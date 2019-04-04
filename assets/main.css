@@ -1,0 +1,51 @@
+* {
+margin: 0;
+padding: 0;
+overflow: hidden;
+ }
+
+.BADBAU {
+  width: -webkit-fill-available;
+  z-index: -1;
+  background-color: black;
+  position:absolute;
+}
+
+.TEXT1 {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+}
+
+.TEXT2 {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+}
+
+.POSTER {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.GIF{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left:0;
+  height: 400px;
+}
+
+.GIF2{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  height: 400px;
+}
