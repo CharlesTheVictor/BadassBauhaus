@@ -8,18 +8,17 @@ html,body {
     overflow: hidden;
     position: relative;
     height: 100%;
+    background-color: black;
 }
 
 .BADBAU {
   width: -webkit-fill-available;
-  z-index: -1;
   background-color: black;
   position:absolute;
 }
 
 .BADBAUS {
   width: -webkit-fill-available;
-  z-index: -1;
   background-color: black;
   position:relative;
   margin: 0;
