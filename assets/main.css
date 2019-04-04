@@ -4,6 +4,12 @@ padding: 0;
 overflow: hidden;
  }
 
+html,body {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+}
+
 .BADBAU {
   width: -webkit-fill-available;
   z-index: -1;
