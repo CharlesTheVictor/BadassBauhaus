@@ -11,6 +11,13 @@ overflow: hidden;
   position:absolute;
 }
 
+.BADBAUS {
+  width: -webkit-fill-available;
+  z-index: -1;
+  background-color: black;
+  position:relative;
+}
+
 .TEXT1 {
   position: fixed;
   top: 8px;
