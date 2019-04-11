@@ -55,6 +55,12 @@ html,body {
   right: 8px;
   z-index: 1;
 }
+.TEXT3 {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1;
+}
 
 .POSTER {
   position: absolute;
