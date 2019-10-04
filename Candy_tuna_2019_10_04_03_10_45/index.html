@@ -12,7 +12,11 @@
 
     <script src="sketch.js"></script>
   <script>
-
+  document.querySelector('button').addEventListener('click', function() {
+    context.resume().then(() => {
+      console.log('Playback resumed successfully');
+    });
+  });
   </script>
 
 </body></html>
